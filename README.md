@@ -20,17 +20,6 @@
 
 ---
 
-# 🚗 Vehicle Info Finder | ProviderTrick Edition
-
-```
-██████╗ ██████╗  ██████╗ ██╗   ██╗██╗██████╗ ███████╗██████╗ 
-██╔══██╗██╔══██╗██╔═══██╗██║   ██║██║██╔══██╗██╔════╝██╔══██╗
-██████╔╝██████╔╝██║   ██║██║   ██║██║██║  ██║█████╗  ██████╔╝
-██╔═══╝ ██╔══██╗██║   ██║╚██╗ ██╔╝██║██║  ██║██╔══╝  ██╔══██╗
-██║     ██║  ██║╚██████╔╝ ╚████╔╝ ██║██████╔╝███████╗██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
 ---
 
 ## 🧠 System Overview
@@ -75,11 +64,11 @@ Netlify
 ## 📊 System Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProviderBotz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true&background=000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=providerbotz&theme=chartreuse-dark&hide_border=true&background=000000"/>
 </p>
 
 ---
@@ -87,7 +76,7 @@ Netlify
 ## 👁 Access Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=ACCESS+LOGS&color=00ff00&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ProviderBotz&label=ACCESS+LOGS&color=00ff00&style=flat-square"/>
 </p>
 
 ---
